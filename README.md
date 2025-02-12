@@ -1,3 +1,4 @@
+# TrackNShop Inventory Application
 
 - It is a shopping application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 - It facilitates the management of product lifecycles, order tracking, and user roles, including customers, sellers, and shippers.
